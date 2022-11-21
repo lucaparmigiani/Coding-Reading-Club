@@ -32,13 +32,8 @@ languages could be considered (e.g., Haskell, Rust. No esotetic langauges though
 - Similar to a **Journal Club**: each week we decide a code that everybody has to
   read and understand. One of us is also responsible for it and has to present
   it (no need for slides, just describing it).
-<<<<<<< HEAD
 - At the end of the course a software is assigned to each student who is asked
   to give a report on how it works.
-=======
-- At the end of the course a software is assigned to each student and who is
-  asked to give a report on how it works.
->>>>>>> 8acd48d (typos)
 
 ## Tools
 
